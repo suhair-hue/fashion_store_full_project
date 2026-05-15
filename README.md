@@ -1,6 +1,6 @@
 # 🛍️ Fashion Store App
 
-A simple Flutter e-commerce mobile application for a fashion store using Firebase.
+A simple Flutter e-commerce mobile application for a fashion store using Flutter & Firebase.
 
 ---
 
