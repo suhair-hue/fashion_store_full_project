@@ -122,7 +122,7 @@ build/app/outputs/flutter-apk/
 Add your APK download link here:
 
 ```md
-[https://github.com/your-username/fashion-store-app/releases](https://drive.google.com/file/d/1M7ajBiFRJ9dMFJMgjUzc2zHXtGLAnS22/view?usp=drivesdk)
+(https://drive.google.com/file/d/1M7ajBiFRJ9dMFJMgjUzc2zHXtGLAnS22/view?usp=drivesdk)
 ```
 
 ---
